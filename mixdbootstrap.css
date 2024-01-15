@@ -1,0 +1,40 @@
+
+.supporting {
+   background: #fcc202;;
+   
+}
+
+.frontline { 
+    font-size: clamp(5.4375rem, 13vw, 12.5rem);
+}
+
+.img {
+  
+   gap: 0 20px;
+   overflow: hidden;
+}
+
+.img > div {
+    overflow: hidden;
+}
+
+.accesibility {
+    color: #fcc202;
+    
+}
+
+.color {
+    background-color: #141414;
+}
+
+.web {
+    color: white;
+}
+
+.big-circle {
+    background-color: #fcc202;
+    height: 350px;
+    width: 350px;
+    display: block;
+   
+}
